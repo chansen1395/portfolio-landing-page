@@ -33,3 +33,4 @@ _{Let me know if you run into any issues or have questions, ideas or concerns.  
 ## Contact Information
 
 * _{<chansen13@georgefox.edu>}_
+* _{[GitHub Page](https://github.com/chansen1395)}_
