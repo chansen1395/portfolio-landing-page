@@ -1,6 +1,7 @@
 .sidebar {
   width: 200px;
   height: 200%;
+  position: fixed;
   float: left;
   background-color: rgb(216, 216, 216);
   padding-right: 10px;
@@ -28,10 +29,16 @@
 }
 
 #container {
+position: relative;
 width: 100%;
 height: 300%;
 padding-right: 15px;
 padding-left: 15px;
 margin-right: auto;
 margin-left: auto;
+}
+
+#main {
+  margin-left: 200px;
+  padding: 0px 10px;
 }
