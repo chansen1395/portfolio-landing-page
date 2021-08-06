@@ -24,7 +24,7 @@ _{This webpage has been created to learn and explore the different basic feature
 
 ## Known Bugs
 
-* No known bugs
+* Possible to not see bottom of sidebar if not in fullscreen.
 
 ## License
 
