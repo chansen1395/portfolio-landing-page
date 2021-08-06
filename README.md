@@ -25,6 +25,7 @@ _{This webpage has been created to learn and explore the different basic feature
 ## Known Bugs
 
 * Possible to not see bottom of sidebar if not in fullscreen.
+* Main content overlaps with sidebar if screen is scrolled to the right.
 
 ## License
 
