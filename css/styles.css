@@ -97,7 +97,17 @@
   margin-top: 10px;
   margin-bottom: 10px;
   float: left;
-  text-align: center;  
+  text-align: left;  
+}
+
+.li-lg {
+  font-size: large;
+  font-weight: bold;
+}
+
+.li-normal {
+  font-size: medium;
+  font-weight: normal;
 }
 
 
