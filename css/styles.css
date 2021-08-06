@@ -1,3 +1,8 @@
+.p-col-small {
+  margin-left: 200px;
+  float: left;
+}
+
 .sidebar {
   width: 200px;
   height: 200%;
@@ -8,6 +13,21 @@
   padding-top: 10px;
   padding-left: 10px; 
   margin-right: 10px;
+}
+
+.row-main {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  display: block;
+  margin-top: 15px;
+  padding-top: 15px;
+  border: 5px;
+  border-width: 5px;
+  border-color: black;
 }
 
 /* #col-1 .sidebar{
@@ -23,6 +43,8 @@
   width: 300px;
   float: left;
   margin-left: 200px;
+  margin-right: 15px;
+  display: block;
 }
 
 .box1 {
@@ -34,6 +56,7 @@
   background-color: rgb(119, 192, 97);
   margin-top: 10px;
   margin-bottom: 10px;
+}
 
 body {
   background-color: burlywood;
