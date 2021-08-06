@@ -1,0 +1,17 @@
+.sidebar {
+  width: 200px;
+  height: 200%;
+  float: left;
+  background-color: rgb(216, 216, 216);
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-left: 10px; 
+  margin-right: 10px;
+}
+
+#col-1 .sidebar{
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
